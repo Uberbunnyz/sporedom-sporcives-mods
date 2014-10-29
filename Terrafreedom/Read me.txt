@@ -1,0 +1,88 @@
+
+---------------------------------------------------
+		**** IMPORTANT ****
+---------------------------------------------------
+
+Install only *1* of the supplied files to your spore/data/
+directory, this mod does have side effects so please read carefully!
+
+
+
+
+
+
+---------------------------------------------------
+	What is terrafreedom?
+---------------------------------------------------
+
+Terrafreedom is a relatively crude mod I cooked up for
+my own personal use originally that allows you to place
+working colonies on any terrascore planet. It also 
+unlocks the re-usable terratools so they can be used on
+your homeworld or on other save games, so you can change
+the terra-score on your home and save worlds so you
+may play races that call volcanic or snowy worlds home.
+
+
+
+
+
+---------------------------------------------------
+	Installation
+---------------------------------------------------
+
+Copy ONE of the following .package files into /Spore/Data/
+for the desired effect.
+
+	Terrafreedom_T1.package		T0 planets allow up to 1 colony
+	Terrafreedom_T2.package		T0 planets allow up to 2 colonies
+	Terrafreedom_T3.package		T0 planets allow up to and over 3 colonies, including homeworlds.		
+
+
+
+
+
+---------------------------------------------------
+	Features
+---------------------------------------------------
+
+	+ T0 worlds can be colonised
+
+	+ 3 setting installation
+
+	+ Non-placeable terraforming tools work on your homeworld
+
+	+ Change the terrascore on your creature/tribal/civ saves
+	  from space and play exotic worlds
+
+
+
+However...
+
+---------------------------------------------------
+	Unwanted side effects
+---------------------------------------------------
+
+	+ All worlds will show up as wild planets on the overview
+
+	+ Grox die instantly if you fly planetside. Disable this 
+	  if you must contact the Grox on nice terms.
+	
+	+ You cannot destroy a planet's ecosystem by unterraforming.
+
+
+
+
+---------------------------------------------------
+	Author Information
+---------------------------------------------------
+
+This is onyl a quickly hashed togethermod and I don't 
+have any plans to further expand upon it. Feel free to edit
+or redistribute it. If you need help with something contact me
+via one the below:
+
+	E-mail:		Ryuujin.zero@Yahoo.co.uk
+	Spore:		Ryuujin
+
+
